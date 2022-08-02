@@ -19,16 +19,21 @@ figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 800px;
 }
 
 figcaption {
   text-align: center;
 }
 
-#featured-property {
-  width: ;
+#featured-property p {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 800px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 div {
